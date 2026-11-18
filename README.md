@@ -33,7 +33,7 @@ predictor reports a higher culmination later. Comparing like with like
 offsets from ~70 s / +72° down to the values above — the illumination model
 in `src/orbit/sun.py` is doing real work, not decoration.
 
-| Ground tracks (24 h) | Best visible pass over Paris | Validation offsets |
+| Ground tracks (12 h) | Best visible pass over Paris | Validation offsets |
 |---|---|---|
 | ![ground tracks](results/fig-ground-tracks.png) | ![sky plot](results/fig-best-pass-sky.png) | ![validation](results/fig-validation.png) |
 
